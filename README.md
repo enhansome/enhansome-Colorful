@@ -5,7 +5,7 @@
 # Awesome Colorful with stars
 
 **A curated list of awesome resources to choose your next color scheme.**
-Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 496,714 | 🐛 100 | 📅 2026-06-30** list. Please read the **[contribution guidelines](contributing.md)** before contributing.
+Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 497,144 | 🐛 103 | 📅 2026-06-30** list. Please read the **[contribution guidelines](contributing.md)** before contributing.
 
 ## Table of Contents
 
@@ -19,11 +19,11 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 496,714
 
 #### Libraries
 
-* [Color Thief](https://github.com/lokesh/color-thief) ⭐ 13,612 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-03 - Grab color palette from an image.
+* [Color Thief](https://github.com/lokesh/color-thief) ⭐ 13,614 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-03 - Grab color palette from an image.
 * [granim.js](https://github.com/sarcadass/granim.js) ⭐ 5,302 | 🐛 29 | 🌐 JavaScript | 📅 2022-12-06 - Create fluid and interactive gradient animations.
 * [TinyColor](https://github.com/bgrins/TinyColor) ⭐ 5,247 | 🐛 105 | 🌐 JavaScript | 📅 2024-06-26 - Fast, small color manipulation and conversion for JavaScript.
 * [Palettable](https://github.com/jiffyclub/palettable) ⭐ 816 | 🐛 21 | 🌐 Python | 📅 2025-08-23 - Palettable (formerly brewer2mpl) is a library of color palettes for Python
-* [Colorify.js](https://github.com/LukyVj/Colorify.js) ⭐ 800 | 🐛 13 | 🌐 HTML | 📅 2021-04-02 - Simple, customizable, tiny JavaScript color extractor.
+* [Colorify.js](https://github.com/LukyVj/Colorify.js) ⭐ 799 | 🐛 13 | 🌐 HTML | 📅 2021-04-02 - Simple, customizable, tiny JavaScript color extractor.
 * [color2k](https://github.com/ricokahler/color2k) ⭐ 633 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-04 - A color parsing and manipulation lib.
 * [Colofilter.css](https://github.com/LukyVj/colofilter.css) ⭐ 619 | 🐛 2 | 🌐 CSS | 📅 2021-04-02 - Duotone filters made with CSS.
 * [Coloor](https://github.com/krasimir/coloor) ⭐ 329 | 🐛 0 | 🌐 JavaScript | 📅 2016-04-19 - Image preloading utility.
@@ -143,4 +143,4 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 496,714
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
