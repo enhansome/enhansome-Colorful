@@ -1,206 +1,216 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Tools"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Color Thief",
-          "description": "Grab color palette from an image.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-03T06:06:03Z",
-            "owner": "lokesh",
-            "repo": "color-thief",
-            "stars": 13614
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "granim.js",
-          "description": "Create fluid and interactive gradient animations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-06T17:56:03Z",
-            "owner": "sarcadass",
-            "repo": "granim.js",
-            "stars": 5302
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TinyColor",
-          "description": "Fast, small color manipulation and conversion for JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-06-26T15:48:44Z",
-            "owner": "bgrins",
-            "repo": "TinyColor",
-            "stars": 5247
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Palettable",
-          "description": "Palettable (formerly brewer2mpl) is a library of color palettes for Python",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-23T21:23:36Z",
-            "owner": "jiffyclub",
-            "repo": "palettable",
-            "stars": 816
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Colorify.js",
-          "description": "Simple, customizable, tiny JavaScript color extractor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2021-04-02T08:30:07Z",
-            "owner": "LukyVj",
-            "repo": "Colorify.js",
-            "stars": 799
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "color2k",
-          "description": "A color parsing and manipulation lib.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-04T10:37:33Z",
-            "owner": "ricokahler",
-            "repo": "color2k",
-            "stars": 633
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Colofilter.css",
-          "description": "Duotone filters made with CSS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2021-04-02T08:31:19Z",
-            "owner": "LukyVj",
-            "repo": "colofilter.css",
-            "stars": 619
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Coloor",
-          "description": "Image preloading utility.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-04-19T04:35:11Z",
-            "owner": "krasimir",
-            "repo": "coloor",
-            "stars": 329
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Polychrome",
-          "description": "A small library for parsing and manipulating colors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2018-02-11T02:12:26Z",
-            "owner": "cdonohue",
-            "repo": "polychrome",
-            "stars": 288
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tinygradient",
-          "description": "Fast and small gradients manipulation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-02-18T18:14:47Z",
-            "owner": "mistic100",
-            "repo": "tinygradient",
-            "stars": 243
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GradStop.js",
-          "description": "Generate gradient color stops.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-06-07T23:26:27Z",
-            "owner": "Siddharth11",
-            "repo": "gradstop",
-            "stars": 155
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Distinct Colors",
-          "description": "Generate a palette of visually distinct colors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-06T04:36:20Z",
-            "owner": "internalfx",
-            "repo": "distinct-colors",
-            "stars": 125
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pigment",
-          "description": "Color information, conversion and manipulation library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-10T16:41:42Z",
-            "owner": "satya164",
-            "repo": "pigment",
-            "stars": 18
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Color Thief",
+              "description": "Grab color palette from an image.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2688455,
+                "language": "TypeScript",
+                "last_commit": "2026-08-03T06:06:03Z",
+                "owner": "lokesh",
+                "repo": "color-thief",
+                "stars": 13613
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "granim.js",
+              "description": "Create fluid and interactive gradient animations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66982675,
+                "language": "JavaScript",
+                "last_commit": "2022-12-06T17:56:03Z",
+                "owner": "sarcadass",
+                "repo": "granim.js",
+                "stars": 5302
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TinyColor",
+              "description": "Fast, small color manipulation and conversion for JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1973790,
+                "language": "JavaScript",
+                "last_commit": "2024-06-26T15:48:44Z",
+                "owner": "bgrins",
+                "repo": "TinyColor",
+                "stars": 5247
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Palettable",
+              "description": "Palettable (formerly brewer2mpl) is a library of color palettes for Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5126245,
+                "language": "Python",
+                "last_commit": "2025-08-23T21:23:36Z",
+                "owner": "jiffyclub",
+                "repo": "palettable",
+                "stars": 816
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Colorify.js",
+              "description": "Simple, customizable, tiny JavaScript color extractor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47554743,
+                "language": "HTML",
+                "last_commit": "2021-04-02T08:30:07Z",
+                "owner": "LukyVj",
+                "repo": "Colorify.js",
+                "stars": 799
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "color2k",
+              "description": "A color parsing and manipulation lib.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262684004,
+                "language": "TypeScript",
+                "last_commit": "2026-08-04T10:37:33Z",
+                "owner": "ricokahler",
+                "repo": "color2k",
+                "stars": 633
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Colofilter.css",
+              "description": "Duotone filters made with CSS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48686960,
+                "language": "CSS",
+                "last_commit": "2021-04-02T08:31:19Z",
+                "owner": "LukyVj",
+                "repo": "colofilter.css",
+                "stars": 619
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Coloor",
+              "description": "Image preloading utility.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54817123,
+                "language": "JavaScript",
+                "last_commit": "2016-04-19T04:35:11Z",
+                "owner": "krasimir",
+                "repo": "coloor",
+                "stars": 329
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Polychrome",
+              "description": "A small library for parsing and manipulating colors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85709336,
+                "language": "TypeScript",
+                "last_commit": "2018-02-11T02:12:26Z",
+                "owner": "cdonohue",
+                "repo": "polychrome",
+                "stars": 288
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tinygradient",
+              "description": "Fast and small gradients manipulation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20960509,
+                "language": "JavaScript",
+                "last_commit": "2025-02-18T18:14:47Z",
+                "owner": "mistic100",
+                "repo": "tinygradient",
+                "stars": 243
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GradStop.js",
+              "description": "Generate gradient color stops.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40301518,
+                "language": "JavaScript",
+                "last_commit": "2019-06-07T23:26:27Z",
+                "owner": "Siddharth11",
+                "repo": "gradstop",
+                "stars": 155
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Distinct Colors",
+              "description": "Generate a palette of visually distinct colors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40613419,
+                "language": "JavaScript",
+                "last_commit": "2023-01-06T04:36:20Z",
+                "owner": "internalfx",
+                "repo": "distinct-colors",
+                "stars": 125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pigment",
+              "description": "Color information, conversion and manipulation library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 977572823,
+                "language": "TypeScript",
+                "last_commit": "2026-06-10T16:41:42Z",
+                "owner": "satya164",
+                "repo": "pigment",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
         }
       ],
-      "title": "Libraries"
-    },
-    {
-      "description": "Aleksandar Savić and Nenad Zivanovic.",
-      "items": [],
-      "title": "Image credits"
+      "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:02:47.678Z",
+    "last_updated": "2026-08-19T09:03:49.530Z",
     "original_repository": "Siddharth11/Colorful",
     "original_repository_sha": "3af5997a081170eae9f745c2203a41f9fef316d1",
     "enhanced_repository": "enhansome/enhansome-Colorful",
