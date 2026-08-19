@@ -5,7 +5,7 @@
 # Awesome Colorful with stars
 
 **A curated list of awesome resources to choose your next color scheme.**
-Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 497,576 | 🐛 102 | 📅 2026-08-18** list. Please read the **[contribution guidelines](contributing.md)** before contributing.
+Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 497,654 | 🐛 102 | 📅 2026-08-18** list. Please read the **[contribution guidelines](contributing.md)** before contributing.
 
 ## Table of Contents
 
