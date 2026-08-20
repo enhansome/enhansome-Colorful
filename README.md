@@ -5,7 +5,7 @@
 # Awesome Colorful with stars
 
 **A curated list of awesome resources to choose your next color scheme.**
-Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 497,654 | 🐛 102 | 📅 2026-08-18** list. Please read the **[contribution guidelines](contributing.md)** before contributing.
+Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 497,962 | 🐛 104 | 📅 2026-08-18** list. Please read the **[contribution guidelines](contributing.md)** before contributing.
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 497,654
 * [TinyColor](https://github.com/bgrins/TinyColor) ⭐ 5,247 | 🐛 106 | 🌐 JavaScript | 📅 2024-06-26 - Fast, small color manipulation and conversion for JavaScript.
 * [Palettable](https://github.com/jiffyclub/palettable) ⭐ 816 | 🐛 21 | 🌐 Python | 📅 2025-08-23 - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 * [Colorify.js](https://github.com/LukyVj/Colorify.js) ⭐ 799 | 🐛 13 | 🌐 HTML | 📅 2021-04-02 - Simple, customizable, tiny JavaScript color extractor.
-* [color2k](https://github.com/ricokahler/color2k) ⭐ 633 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-04 - A color parsing and manipulation lib.
+* [color2k](https://github.com/ricokahler/color2k) ⭐ 632 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-04 - A color parsing and manipulation lib.
 * [Colofilter.css](https://github.com/LukyVj/colofilter.css) ⭐ 619 | 🐛 2 | 🌐 CSS | 📅 2021-04-02 - Duotone filters made with CSS.
 * [Coloor](https://github.com/krasimir/coloor) ⭐ 329 | 🐛 0 | 🌐 JavaScript | 📅 2016-04-19 - Image preloading utility.
 * [Polychrome](https://github.com/cdonohue/polychrome) ⭐ 288 | 🐛 6 | 🌐 TypeScript | 📅 2018-02-11 - A small library for parsing and manipulating colors.
@@ -143,4 +143,4 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 497,654
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
