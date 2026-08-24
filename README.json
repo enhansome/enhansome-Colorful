@@ -204,13 +204,35 @@
           "description": null,
           "node_type": "group",
           "title": "Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SassMe",
+              "description": "Visualize SASS color functions in real-time without compiling.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68064741,
+                "language": "JavaScript",
+                "last_commit": "2018-11-05T17:03:55Z",
+                "owner": "jimniels",
+                "repo": "sassme",
+                "stars": 58
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web App"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:13:03.798Z",
+    "last_updated": "2026-08-24T14:12:35.769Z",
     "original_repository": "Siddharth11/Colorful",
     "original_repository_id": 57318132,
     "original_repository_sha": "3af5997a081170eae9f745c2203a41f9fef316d1",

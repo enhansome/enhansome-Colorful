@@ -5,7 +5,7 @@
 # Awesome Colorful with stars
 
 **A curated list of awesome resources to choose your next color scheme.**
-Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 499,413 | 🐛 106 | 📅 2026-08-21** list. Please read the **[contribution guidelines](contributing.md)** before contributing.
+Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21** list. Please read the **[contribution guidelines](contributing.md)** before contributing.
 
 ## Table of Contents
 
@@ -38,6 +38,7 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 499,413
 
 #### Web App
 
+* [SassMe](https://github.com/jimniels/sassme) ⭐ 58 | 🐛 3 | 🌐 JavaScript | 📅 2018-11-05 - Visualize SASS color functions in real-time without compiling.
 * [Color Picker for Data](http://tristen.ca/hcl-picker/) - Hold chroma constant and pick your palette with ease.
 * [Colorbrewer2](http://colorbrewer2.org/) - Multi-hue and single-hue palettes for heat maps and data visualization.
 * [Coolors](https://coolors.co/) - Generate infinite color palettes for your designs and share.
@@ -47,7 +48,6 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 499,413
 * [Paletton](http://paletton.com) - The Color Scheme Designer.
 * [Adobe Color Wheel](https://color.adobe.com/) - Create color schemes with the color wheel.
 * [Drag Gradients](http://elrumordelaluz.github.io/draGGradients/) - Generate and customize multiple css3 radial gradients.
-* [SassMe](https://github.com/jimniels/sassme) ⭐ 58 | 🐛 3 | 🌐 JavaScript | 📅 2018-11-05 - Visualize SASS color functions in real-time without compiling.
 * [Colourco](http://www.colourco.de/) - Easily and intuitively combine colours.
 * [HSL Color Picker](http://hslpicker.com/) - HSL Color Picker.
 * [SVG Color Filter Playground](http://kazzkiq.github.io/svg-color-filter/) - Understand how feColorMatrix works.
