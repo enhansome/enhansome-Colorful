@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-03T06:06:03Z",
                 "owner": "lokesh",
                 "repo": "color-thief",
-                "stars": 13619
-              }
+                "stars": 13621
+              },
+              "first_seen": "2026-08-28T20:18:04.732Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "sarcadass",
                 "repo": "granim.js",
                 "stars": 5304
-              }
+              },
+              "first_seen": "2026-08-28T20:18:04.732Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "bgrins",
                 "repo": "TinyColor",
                 "stars": 5246
-              }
+              },
+              "first_seen": "2026-08-28T20:18:04.732Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "jiffyclub",
                 "repo": "palettable",
                 "stars": 815
-              }
+              },
+              "first_seen": "2026-08-28T20:18:04.732Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "LukyVj",
                 "repo": "Colorify.js",
                 "stars": 799
-              }
+              },
+              "first_seen": "2026-08-28T20:18:04.732Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "ricokahler",
                 "repo": "color2k",
                 "stars": 632
-              }
+              },
+              "first_seen": "2026-08-28T20:18:04.732Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "LukyVj",
                 "repo": "colofilter.css",
                 "stars": 619
-              }
+              },
+              "first_seen": "2026-08-28T20:18:04.732Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "krasimir",
                 "repo": "coloor",
                 "stars": 329
-              }
+              },
+              "first_seen": "2026-08-28T20:18:04.732Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "cdonohue",
                 "repo": "polychrome",
                 "stars": 288
-              }
+              },
+              "first_seen": "2026-08-28T20:18:04.732Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "mistic100",
                 "repo": "tinygradient",
                 "stars": 243
-              }
+              },
+              "first_seen": "2026-08-28T20:18:04.732Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "Siddharth11",
                 "repo": "gradstop",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T20:18:04.732Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "internalfx",
                 "repo": "distinct-colors",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-28T20:18:04.732Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "satya164",
                 "repo": "pigment",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T20:18:04.732Z"
             }
           ],
           "description": null,
@@ -220,7 +233,8 @@
                 "owner": "jimniels",
                 "repo": "sassme",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T20:18:04.732Z"
             }
           ],
           "description": null,
@@ -232,7 +246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:11:48.369Z",
+    "last_updated": "2026-08-28T20:18:04.732Z",
     "original_repository_info": {
       "archived": false,
       "id": 57318132,
@@ -240,7 +254,7 @@
       "last_commit": "2025-03-13T19:24:54Z",
       "owner": "Siddharth11",
       "repo": "Colorful",
-      "stars": 1315
+      "stars": 1316
     },
     "original_repository_sha": "3af5997a081170eae9f745c2203a41f9fef316d1",
     "enhanced_repository": "enhansome/enhansome-Colorful",
