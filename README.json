@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Grab the color palette from an image using just Javascript.  Works in the browser and in Node.",
+                "homepage": "https://lokeshdhakar.com/projects/color-thief/",
                 "id": 2688455,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-03T06:06:03Z",
+                "open_issues": 1,
                 "owner": "lokesh",
                 "repo": "color-thief",
-                "stars": 13621
+                "stars": 13622,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
             },
@@ -28,12 +33,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create fluid and interactive gradient animations with this small javascript library.",
+                "homepage": "https://sarcadass.github.io/granim.js/",
                 "id": 66982675,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-06T17:56:03Z",
+                "open_issues": 29,
                 "owner": "sarcadass",
                 "repo": "granim.js",
-                "stars": 5304
+                "stars": 5304,
+                "topics": [
+                  "animation",
+                  "fluid",
+                  "gradient"
+                ]
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
             },
@@ -44,12 +58,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, small color manipulation and conversion for JavaScript",
+                "homepage": "https://bgrins.github.io/TinyColor/",
                 "id": 1973790,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-26T15:48:44Z",
+                "open_issues": 106,
                 "owner": "bgrins",
                 "repo": "TinyColor",
-                "stars": 5246
+                "stars": 5246,
+                "topics": [
+                  "color",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
             },
@@ -60,12 +82,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Color palettes for Python",
+                "homepage": "https://jiffyclub.github.io/palettable/",
                 "id": 5126245,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-23T21:23:36Z",
+                "open_issues": 21,
                 "owner": "jiffyclub",
                 "repo": "palettable",
-                "stars": 815
+                "stars": 815,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
             },
@@ -76,12 +103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The simple, customizable, tiny javascript color extractor",
+                "homepage": "http://colorify.rocks",
                 "id": 47554743,
                 "language": "HTML",
+                "license": "ISC",
                 "last_commit": "2021-04-02T08:30:07Z",
+                "open_issues": 13,
                 "owner": "LukyVj",
                 "repo": "Colorify.js",
-                "stars": 799
+                "stars": 799,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
             },
@@ -92,12 +124,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a color parsing and manipulation lib served in roughly 2kB",
+                "homepage": "https://color2k.com",
                 "id": 262684004,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-04T10:37:33Z",
+                "open_issues": 9,
                 "owner": "ricokahler",
                 "repo": "color2k",
-                "stars": 632
+                "stars": 632,
+                "topics": [
+                  "chroma-js",
+                  "color",
+                  "color-manipulation",
+                  "color-parser",
+                  "css-in-js",
+                  "polished",
+                  "tinycolor"
+                ]
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
             },
@@ -108,12 +153,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Colofilter.css - Duotone filters made with CSS ! ",
+                "homepage": "http://lukyvj.github.io/colofilter.css",
                 "id": 48686960,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2021-04-02T08:31:19Z",
+                "open_issues": 2,
                 "owner": "LukyVj",
                 "repo": "colofilter.css",
-                "stars": 619
+                "stars": 619,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
             },
@@ -124,12 +174,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Image preloading utility",
+                "homepage": "http://krasimir.github.io/coloor/example/",
                 "id": 54817123,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-04-19T04:35:11Z",
+                "open_issues": 0,
                 "owner": "krasimir",
                 "repo": "coloor",
-                "stars": 329
+                "stars": 329,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
             },
@@ -140,12 +195,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎨 Easy color manipulation in ~2kb (gzipped)",
+                "homepage": null,
                 "id": 85709336,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2018-02-11T02:12:26Z",
+                "open_issues": 6,
                 "owner": "cdonohue",
                 "repo": "polychrome",
-                "stars": 288
+                "stars": 288,
+                "topics": [
+                  "color",
+                  "color-manipulation",
+                  "css-color",
+                  "css-in-js",
+                  "immutable",
+                  "palette",
+                  "tiny"
+                ]
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
             },
@@ -156,12 +224,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast and small gradients manipulation, built on top of TinyColor",
+                "homepage": "https://mistic100.github.io/tinygradient",
                 "id": 20960509,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-02-18T18:14:47Z",
+                "open_issues": 0,
                 "owner": "mistic100",
                 "repo": "tinygradient",
-                "stars": 243
+                "stars": 243,
+                "topics": [
+                  "colors",
+                  "gradient"
+                ]
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
             },
@@ -172,12 +248,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript micro library to generate gradient color stops 🏳️‍🌈",
+                "homepage": null,
                 "id": 40301518,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-06-07T23:26:27Z",
+                "open_issues": 1,
                 "owner": "Siddharth11",
                 "repo": "gradstop",
-                "stars": 155
+                "stars": 155,
+                "topics": [
+                  "color-palette",
+                  "color-scheme",
+                  "colors",
+                  "gradient",
+                  "hex",
+                  "hsl",
+                  "javascript",
+                  "javascript-micro-library",
+                  "library",
+                  "monotone",
+                  "pallete",
+                  "rgb"
+                ]
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
             },
@@ -188,12 +282,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate a palette of visually distinct colors. It's great for charts.",
+                "homepage": null,
                 "id": 40613419,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2023-01-06T04:36:20Z",
+                "open_issues": 12,
                 "owner": "internalfx",
                 "repo": "distinct-colors",
-                "stars": 124
+                "stars": 124,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
             },
@@ -204,12 +303,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for creating interactive command-line applications.",
+                "homepage": "https://www.npmjs.com/package/pigment",
                 "id": 977572823,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-06-10T16:41:42Z",
+                "open_issues": 0,
                 "owner": "satya164",
                 "repo": "pigment",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
             }
@@ -227,12 +331,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SassMe: Real-time manipulation and visualization of Sass color functions",
+                "homepage": "http://jim-nielsen.com/sassme",
                 "id": 68064741,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-11-05T17:03:55Z",
+                "open_issues": 3,
                 "owner": "jimniels",
                 "repo": "sassme",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
             }
@@ -246,15 +355,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:18:04.732Z",
+    "last_updated": "2026-08-29T04:32:56.114Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome resources to choose your next color scheme",
+      "homepage": null,
       "id": 57318132,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-03-13T19:24:54Z",
+      "open_issues": 11,
       "owner": "Siddharth11",
       "repo": "Colorful",
-      "stars": 1316
+      "stars": 1316,
+      "topics": [
+        "articles",
+        "awesome",
+        "awesome-list",
+        "color-palette",
+        "color-scheme",
+        "color-theory",
+        "colors",
+        "list",
+        "resource"
+      ]
     },
     "original_repository_sha": "3af5997a081170eae9f745c2203a41f9fef316d1",
     "enhanced_repository": "enhansome/enhansome-Colorful",
