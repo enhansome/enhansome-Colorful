@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "lokesh",
                 "repo": "color-thief",
-                "stars": 13625,
+                "stars": 13627,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
@@ -129,8 +129,8 @@
                 "id": 262684004,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-04T10:37:33Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-03T01:19:59Z",
+                "open_issues": 10,
                 "owner": "ricokahler",
                 "repo": "color2k",
                 "stars": 632,
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:52:44.511Z",
+    "last_updated": "2026-09-03T12:55:56.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources to choose your next color scheme",
@@ -367,7 +367,7 @@
       "open_issues": 11,
       "owner": "Siddharth11",
       "repo": "Colorful",
-      "stars": 1314,
+      "stars": 1315,
       "topics": [
         "articles",
         "awesome",
