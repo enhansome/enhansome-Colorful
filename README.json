@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:14:07.389Z",
+    "last_updated": "2026-09-07T14:21:57.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources to choose your next color scheme",
@@ -364,7 +364,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-03-13T19:24:54Z",
-      "open_issues": 11,
+      "open_issues": 12,
       "owner": "Siddharth11",
       "repo": "Colorful",
       "stars": 1315,
