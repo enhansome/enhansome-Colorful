@@ -5,7 +5,7 @@
 # Awesome Colorful with stars
 
 **A curated list of awesome resources to choose your next color scheme.**
-Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 507,709 | 🐛 106 | 📅 2026-09-02** list. Please read the **[contribution guidelines](contributing.md)** before contributing.
+Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 508,062 | 🐛 106 | 📅 2026-09-02** list. Please read the **[contribution guidelines](contributing.md)** before contributing.
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 507,709
 
 #### Libraries
 
-* [Color Thief](https://github.com/lokesh/color-thief) ⭐ 13,636 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-03 - Grab color palette from an image.
+* [Color Thief](https://github.com/lokesh/color-thief) ⭐ 13,637 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-03 - Grab color palette from an image.
 * [granim.js](https://github.com/sarcadass/granim.js) ⭐ 5,303 | 🐛 29 | 🌐 JavaScript | 📅 2022-12-06 - Create fluid and interactive gradient animations.
 * [TinyColor](https://github.com/bgrins/TinyColor) ⭐ 5,251 | 🐛 109 | 🌐 JavaScript | 📅 2024-06-26 - Fast, small color manipulation and conversion for JavaScript.
 * [Palettable](https://github.com/jiffyclub/palettable) ⭐ 815 | 🐛 21 | 🌐 Python | 📅 2025-08-23 - Palettable (formerly brewer2mpl) is a library of color palettes for Python
@@ -143,4 +143,4 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 507,709
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
