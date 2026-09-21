@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "lokesh",
                 "repo": "color-thief",
-                "stars": 13637,
+                "stars": 13639,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
@@ -42,7 +42,7 @@
                 "open_issues": 29,
                 "owner": "sarcadass",
                 "repo": "granim.js",
-                "stars": 5303,
+                "stars": 5304,
                 "topics": [
                   "animation",
                   "fluid",
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:09:07.266Z",
+    "last_updated": "2026-09-21T15:14:58.281Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources to choose your next color scheme",
@@ -367,7 +367,7 @@
       "open_issues": 18,
       "owner": "Siddharth11",
       "repo": "Colorful",
-      "stars": 1314,
+      "stars": 1315,
       "topics": [
         "articles",
         "awesome",
