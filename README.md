@@ -5,7 +5,7 @@
 # Awesome Colorful with stars
 
 **A curated list of awesome resources to choose your next color scheme.**
-Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 509,724 | 🐛 106 | 📅 2026-09-02** list. Please read the **[contribution guidelines](contributing.md)** before contributing.
+Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 510,243 | 🐛 107 | 📅 2026-09-02** list. Please read the **[contribution guidelines](contributing.md)** before contributing.
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 509,724
 * [Polychrome](https://github.com/cdonohue/polychrome) ⭐ 288 | 🐛 6 | 🌐 TypeScript | 📅 2018-02-11 - A small library for parsing and manipulating colors.
 * [tinygradient](https://github.com/mistic100/tinygradient) ⭐ 244 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-18 - Fast and small gradients manipulation.
 * [GradStop.js](https://github.com/Siddharth11/gradStop.js) ⭐ 155 | 🐛 1 | 🌐 JavaScript | 📅 2019-06-07 - Generate gradient color stops.
-* [Distinct Colors](https://github.com/internalfx/distinct-colors) ⭐ 124 | 🐛 12 | 🌐 JavaScript | 📅 2023-01-06 - Generate a palette of visually distinct colors.
+* [Distinct Colors](https://github.com/internalfx/distinct-colors) ⭐ 125 | 🐛 12 | 🌐 JavaScript | 📅 2023-01-06 - Generate a palette of visually distinct colors.
 * [pigment](https://github.com/satya164/pigment) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-10 - Color information, conversion and manipulation library
 * [Chroma.js](http://gka.github.io/chroma.js/) - JavaScript library for dealing with colors.
 * [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
@@ -98,7 +98,7 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 509,724
 * [ColorClaim](http://www.vanschneider.com/colors) - Subtle color combinations.
 * [WebGradients](https://webgradients.com/) - A free collection of 180 linear gradients.
 * [Dave Green's 'cubehelix' colour scheme](http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/) - Resources for the cubehelix family of colour schemes.
-* [Color Name List](https://github.com/meodai/color-names/) ⭐ 3,001 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-23 - Huge curated list of unique color names.
+* [Color Name List](https://github.com/meodai/color-names/) ⭐ 3,002 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-23 - Huge curated list of unique color names.
 * [Realtime Colors](https://www.realtimecolors.com) - Visualize Your Colors & Fonts On a Real Site.
 * [InclusiveColors](https://www.inclusivecolors.com/) - Create custom accessible Tailwind-style color palettes, with WCAG/APCA contrast checks and live previews on a mockup.
 * [ColorMagic](https://colormagic.app) - Generate color palettes with AI. Enter any keyword and generate a matching color palette.
@@ -143,4 +143,4 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 509,724
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
