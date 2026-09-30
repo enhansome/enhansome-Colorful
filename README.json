@@ -42,7 +42,7 @@
                 "open_issues": 29,
                 "owner": "sarcadass",
                 "repo": "granim.js",
-                "stars": 5304,
+                "stars": 5303,
                 "topics": [
                   "animation",
                   "fluid",
@@ -233,7 +233,7 @@
                 "open_issues": 0,
                 "owner": "mistic100",
                 "repo": "tinygradient",
-                "stars": 244,
+                "stars": 242,
                 "topics": [
                   "colors",
                   "gradient"
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T16:52:40.052Z",
+    "last_updated": "2026-09-30T15:06:01.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources to choose your next color scheme",
