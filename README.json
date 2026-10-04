@@ -42,7 +42,7 @@
                 "open_issues": 29,
                 "owner": "sarcadass",
                 "repo": "granim.js",
-                "stars": 5302,
+                "stars": 5301,
                 "topics": [
                   "animation",
                   "fluid",
@@ -130,7 +130,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-03T07:50:51Z",
-                "open_issues": 13,
+                "open_issues": 15,
                 "owner": "ricokahler",
                 "repo": "color2k",
                 "stars": 632,
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T13:35:30.259Z",
+    "last_updated": "2026-10-04T14:15:55.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources to choose your next color scheme",
