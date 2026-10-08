@@ -42,7 +42,7 @@
                 "open_issues": 29,
                 "owner": "sarcadass",
                 "repo": "granim.js",
-                "stars": 5300,
+                "stars": 5301,
                 "topics": [
                   "animation",
                   "fluid",
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T15:40:44.447Z",
+    "last_updated": "2026-10-08T15:46:28.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources to choose your next color scheme",
@@ -367,7 +367,7 @@
       "open_issues": 18,
       "owner": "Siddharth11",
       "repo": "Colorful",
-      "stars": 1319,
+      "stars": 1320,
       "topics": [
         "articles",
         "awesome",
