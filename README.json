@@ -129,8 +129,8 @@
                 "id": 262684004,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T07:50:51Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-12T11:19:51Z",
+                "open_issues": 15,
                 "owner": "ricokahler",
                 "repo": "color2k",
                 "stars": 632,
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T15:00:10.065Z",
+    "last_updated": "2026-10-12T18:06:21.344Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources to choose your next color scheme",
