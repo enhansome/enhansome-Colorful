@@ -133,7 +133,7 @@
                 "open_issues": 18,
                 "owner": "ricokahler",
                 "repo": "color2k",
-                "stars": 633,
+                "stars": 632,
                 "topics": [
                   "chroma-js",
                   "color",
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T15:18:14.024Z",
+    "last_updated": "2026-10-29T15:23:09.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources to choose your next color scheme",
