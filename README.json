@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "lokesh",
                 "repo": "color-thief",
-                "stars": 13663,
+                "stars": 13662,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
@@ -112,7 +112,7 @@
                 "open_issues": 13,
                 "owner": "LukyVj",
                 "repo": "Colorify.js",
-                "stars": 798,
+                "stars": 797,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
@@ -204,7 +204,7 @@
                 "open_issues": 6,
                 "owner": "cdonohue",
                 "repo": "polychrome",
-                "stars": 288,
+                "stars": 287,
                 "topics": [
                   "color",
                   "color-manipulation",
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T15:23:09.776Z",
+    "last_updated": "2026-10-30T15:10:18.998Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources to choose your next color scheme",
