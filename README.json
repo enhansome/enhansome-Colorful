@@ -129,7 +129,7 @@
                 "id": 262684004,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-22T04:04:30Z",
+                "last_commit": "2026-10-30T17:35:34Z",
                 "open_issues": 18,
                 "owner": "ricokahler",
                 "repo": "color2k",
@@ -257,7 +257,7 @@
                 "open_issues": 1,
                 "owner": "Siddharth11",
                 "repo": "gradstop",
-                "stars": 155,
+                "stars": 154,
                 "topics": [
                   "color-palette",
                   "color-scheme",
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T15:10:18.998Z",
+    "last_updated": "2026-10-31T14:39:20.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources to choose your next color scheme",
