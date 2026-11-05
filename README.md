@@ -5,7 +5,7 @@
 # Awesome Colorful with stars
 
 **A curated list of awesome resources to choose your next color scheme.**
-Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 530,771 | 🐛 103 | 📅 2026-09-02** list. Please read the **[contribution guidelines](contributing.md)** before contributing.
+Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 531,545 | 🐛 103 | 📅 2026-09-02** list. Please read the **[contribution guidelines](contributing.md)** before contributing.
 
 ## Table of Contents
 
@@ -98,7 +98,7 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 530,771
 * [ColorClaim](http://www.vanschneider.com/colors) - Subtle color combinations.
 * [WebGradients](https://webgradients.com/) - A free collection of 180 linear gradients.
 * [Dave Green's 'cubehelix' colour scheme](http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/) - Resources for the cubehelix family of colour schemes.
-* [Color Name List](https://github.com/meodai/color-names/) ⭐ 3,101 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-02 - Huge curated list of unique color names.
+* [Color Name List](https://github.com/meodai/color-names/) ⭐ 3,104 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-02 - Huge curated list of unique color names.
 * [Realtime Colors](https://www.realtimecolors.com) - Visualize Your Colors & Fonts On a Real Site.
 * [InclusiveColors](https://www.inclusivecolors.com/) - Create custom accessible Tailwind-style color palettes, with WCAG/APCA contrast checks and live previews on a mockup.
 * [ColorMagic](https://colormagic.app) - Generate color palettes with AI. Enter any keyword and generate a matching color palette.
@@ -143,4 +143,4 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 530,771
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
