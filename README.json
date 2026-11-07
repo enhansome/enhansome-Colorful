@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "lokesh",
                 "repo": "color-thief",
-                "stars": 13664,
+                "stars": 13663,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T16:06:32.201Z",
+    "last_updated": "2026-11-07T14:59:31.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources to choose your next color scheme",
