@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "lokesh",
                 "repo": "color-thief",
-                "stars": 13664,
+                "stars": 13666,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
@@ -64,7 +64,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2024-06-26T15:48:44Z",
-                "open_issues": 108,
+                "open_issues": 109,
                 "owner": "bgrins",
                 "repo": "TinyColor",
                 "stars": 5253,
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T15:28:41.942Z",
+    "last_updated": "2026-11-09T18:59:52.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources to choose your next color scheme",
