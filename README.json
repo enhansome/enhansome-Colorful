@@ -42,7 +42,7 @@
                 "open_issues": 29,
                 "owner": "sarcadass",
                 "repo": "granim.js",
-                "stars": 5296,
+                "stars": 5297,
                 "topics": [
                   "animation",
                   "fluid",
@@ -91,7 +91,7 @@
                 "open_issues": 21,
                 "owner": "jiffyclub",
                 "repo": "palettable",
-                "stars": 816,
+                "stars": 817,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
@@ -112,7 +112,7 @@
                 "open_issues": 13,
                 "owner": "LukyVj",
                 "repo": "Colorify.js",
-                "stars": 797,
+                "stars": 798,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T18:59:52.353Z",
+    "last_updated": "2026-11-10T16:31:02.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources to choose your next color scheme",
@@ -367,7 +367,7 @@
       "open_issues": 18,
       "owner": "Siddharth11",
       "repo": "Colorful",
-      "stars": 1329,
+      "stars": 1330,
       "topics": [
         "articles",
         "awesome",
