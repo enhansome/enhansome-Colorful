@@ -18,7 +18,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-03T06:06:03Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "lokesh",
                 "repo": "color-thief",
                 "stars": 13668,
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T15:15:31.631Z",
+    "last_updated": "2026-11-15T15:46:23.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources to choose your next color scheme",
