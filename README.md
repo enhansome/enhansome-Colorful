@@ -5,7 +5,7 @@
 # Awesome Colorful with stars
 
 **A curated list of awesome resources to choose your next color scheme.**
-Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 537,304 | 🐛 104 | 📅 2026-09-02** list. Please read the **[contribution guidelines](contributing.md)** before contributing.
+Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 537,907 | 🐛 104 | 📅 2026-09-02** list. Please read the **[contribution guidelines](contributing.md)** before contributing.
 
 ## Table of Contents
 
@@ -19,14 +19,14 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 537,304
 
 #### Libraries
 
-* [Color Thief](https://github.com/lokesh/color-thief) ⭐ 13,668 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-03 - Grab color palette from an image.
+* [Color Thief](https://github.com/lokesh/color-thief) ⭐ 13,670 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-03 - Grab color palette from an image.
 * [granim.js](https://github.com/sarcadass/granim.js) ⭐ 5,296 | 🐛 29 | 🌐 JavaScript | 📅 2022-12-06 - Create fluid and interactive gradient animations.
-* [TinyColor](https://github.com/bgrins/TinyColor) ⭐ 5,253 | 🐛 109 | 🌐 JavaScript | 📅 2024-06-26 - Fast, small color manipulation and conversion for JavaScript.
+* [TinyColor](https://github.com/bgrins/TinyColor) ⭐ 5,251 | 🐛 109 | 🌐 JavaScript | 📅 2024-06-26 - Fast, small color manipulation and conversion for JavaScript.
 * [Palettable](https://github.com/jiffyclub/palettable) ⭐ 817 | 🐛 21 | 🌐 Python | 📅 2025-08-23 - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 * [Colorify.js](https://github.com/LukyVj/Colorify.js) ⭐ 798 | 🐛 13 | 🌐 HTML | 📅 2021-04-02 - Simple, customizable, tiny JavaScript color extractor.
 * [color2k](https://github.com/ricokahler/color2k) ⭐ 632 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-30 - A color parsing and manipulation lib.
 * [Colofilter.css](https://github.com/LukyVj/colofilter.css) ⭐ 618 | 🐛 2 | 🌐 CSS | 📅 2021-04-02 - Duotone filters made with CSS.
-* [Coloor](https://github.com/krasimir/coloor) ⭐ 329 | 🐛 0 | 🌐 JavaScript | 📅 2016-04-19 - Image preloading utility.
+* [Coloor](https://github.com/krasimir/coloor) ⭐ 328 | 🐛 0 | 🌐 JavaScript | 📅 2016-04-19 - Image preloading utility.
 * [Polychrome](https://github.com/cdonohue/polychrome) ⭐ 287 | 🐛 6 | 🌐 TypeScript | 📅 2018-02-11 - A small library for parsing and manipulating colors.
 * [tinygradient](https://github.com/mistic100/tinygradient) ⭐ 244 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-18 - Fast and small gradients manipulation.
 * [GradStop.js](https://github.com/Siddharth11/gradStop.js) ⭐ 154 | 🐛 1 | 🌐 JavaScript | 📅 2019-06-07 - Generate gradient color stops.
@@ -98,7 +98,7 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 537,304
 * [ColorClaim](http://www.vanschneider.com/colors) - Subtle color combinations.
 * [WebGradients](https://webgradients.com/) - A free collection of 180 linear gradients.
 * [Dave Green's 'cubehelix' colour scheme](http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/) - Resources for the cubehelix family of colour schemes.
-* [Color Name List](https://github.com/meodai/color-names/) ⭐ 3,108 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-12 - Huge curated list of unique color names.
+* [Color Name List](https://github.com/meodai/color-names/) ⭐ 3,107 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-16 - Huge curated list of unique color names.
 * [Realtime Colors](https://www.realtimecolors.com) - Visualize Your Colors & Fonts On a Real Site.
 * [InclusiveColors](https://www.inclusivecolors.com/) - Create custom accessible Tailwind-style color palettes, with WCAG/APCA contrast checks and live previews on a mockup.
 * [ColorMagic](https://colormagic.app) - Generate color palettes with AI. Enter any keyword and generate a matching color palette.
@@ -143,4 +143,4 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome) ⭐ 537,304
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
