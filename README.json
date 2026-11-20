@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "lokesh",
                 "repo": "color-thief",
-                "stars": 13671,
+                "stars": 13670,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
@@ -42,7 +42,7 @@
                 "open_issues": 29,
                 "owner": "sarcadass",
                 "repo": "granim.js",
-                "stars": 5295,
+                "stars": 5294,
                 "topics": [
                   "animation",
                   "fluid",
@@ -67,7 +67,7 @@
                 "open_issues": 109,
                 "owner": "bgrins",
                 "repo": "TinyColor",
-                "stars": 5251,
+                "stars": 5250,
                 "topics": [
                   "color",
                   "javascript"
@@ -91,7 +91,7 @@
                 "open_issues": 21,
                 "owner": "jiffyclub",
                 "repo": "palettable",
-                "stars": 817,
+                "stars": 816,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
@@ -112,7 +112,7 @@
                 "open_issues": 13,
                 "owner": "LukyVj",
                 "repo": "Colorify.js",
-                "stars": 798,
+                "stars": 797,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
@@ -124,24 +124,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "a color parsing and manipulation lib served in roughly 2kB",
+                "description": "Small, zero-dependency JavaScript color manipulation and WCAG contrast library with TypeScript types",
                 "homepage": "https://color2k.com",
                 "id": 262684004,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-19T12:40:38Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-20T13:39:57Z",
+                "open_issues": 8,
                 "owner": "ricokahler",
                 "repo": "color2k",
-                "stars": 632,
+                "stars": 633,
                 "topics": [
                   "chroma-js",
                   "color",
                   "color-manipulation",
                   "color-parser",
                   "css-in-js",
+                  "javascript",
                   "polished",
-                  "tinycolor"
+                  "theming",
+                  "tinycolor",
+                  "typescript",
+                  "wcag"
                 ]
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
@@ -355,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T17:31:28.460Z",
+    "last_updated": "2026-11-20T17:05:59.090Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources to choose your next color scheme",
@@ -364,7 +368,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-03-13T19:24:54Z",
-      "open_issues": 18,
+      "open_issues": 19,
       "owner": "Siddharth11",
       "repo": "Colorful",
       "stars": 1331,
