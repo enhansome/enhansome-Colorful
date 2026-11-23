@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-03T06:06:03Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "lokesh",
                 "repo": "color-thief",
-                "stars": 13669,
+                "stars": 13668,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:18:04.732Z"
@@ -42,7 +42,7 @@
                 "open_issues": 29,
                 "owner": "sarcadass",
                 "repo": "granim.js",
-                "stars": 5293,
+                "stars": 5292,
                 "topics": [
                   "animation",
                   "fluid",
@@ -67,7 +67,7 @@
                 "open_issues": 109,
                 "owner": "bgrins",
                 "repo": "TinyColor",
-                "stars": 5250,
+                "stars": 5249,
                 "topics": [
                   "color",
                   "javascript"
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T16:31:27.268Z",
+    "last_updated": "2026-11-23T20:26:50.192Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources to choose your next color scheme",
@@ -368,7 +368,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-03-13T19:24:54Z",
-      "open_issues": 19,
+      "open_issues": 20,
       "owner": "Siddharth11",
       "repo": "Colorful",
       "stars": 1331,
