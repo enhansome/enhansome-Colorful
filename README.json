@@ -42,7 +42,7 @@
                 "open_issues": 29,
                 "owner": "sarcadass",
                 "repo": "granim.js",
-                "stars": 5292,
+                "stars": 5293,
                 "topics": [
                   "animation",
                   "fluid",
@@ -64,7 +64,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2024-06-26T15:48:44Z",
-                "open_issues": 109,
+                "open_issues": 110,
                 "owner": "bgrins",
                 "repo": "TinyColor",
                 "stars": 5248,
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T18:44:57.916Z",
+    "last_updated": "2026-11-26T18:33:02.564Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources to choose your next color scheme",
@@ -371,7 +371,7 @@
       "open_issues": 20,
       "owner": "Siddharth11",
       "repo": "Colorful",
-      "stars": 1334,
+      "stars": 1333,
       "topics": [
         "articles",
         "awesome",
